@@ -1,5 +1,9 @@
 ## Key Highlights of the project:
 
+### Use of SCSS
+
+SCSS has been used as a preprocessor to generate css and make the styling easier and code more readable.
+
 ### Use of Bootstrap
 
 Bootstrap 4.0 has been used to focus more on the UI structure and will later be changed to a better design after the UI structure and other important stuff has been finalized.
@@ -8,7 +12,7 @@ Bootstrap 4.0 has been used to focus more on the UI structure and will later be 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Important Script
+### Important Script
 
 `npm start`
 
